@@ -1,2 +1,4 @@
 # mobile_catalogue
-first project for final exam fror 7th grade in univ
+this apk named De' Ans Catalogue by Anisa Damayanti, S.Kom.
+first project for final exam for 7th grade in univ
+using react native for script & google firebase for database
